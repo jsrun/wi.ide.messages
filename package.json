@@ -1,0 +1,14 @@
+{
+    "name": "wi.ide.messages",
+    "version": "0.2.1",
+    "author": "André Ferreira <andrehrf@gmail.com>",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jsrun/wi.ide.messages"
+    },
+    "bugs": {
+        "url": "https://github.com/jsrun/wi.ide.messages/issues"
+    },
+    "homepage": "https://github.com/jsrun/wi.ide.messages"
+}
